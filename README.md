@@ -1,2 +1,2 @@
-# C-_Laboratory_1
+# C_sharp_Laboratory_1
 Языки программирования C# - 1 лабораторная
